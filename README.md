@@ -1,1 +1,2 @@
 # Interview-website
+An interview preparation website is a platform designed to help job seekers get ready for their upcoming job interviews. It typically offers resources such as interview questions, answers, tips, and advice, as well as tutorials and practice interviews to help build confidence and improve interviewing skills. The goal is to assist job seekers in preparing for their interview and increasing their chances of landing the job.
